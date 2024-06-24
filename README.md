@@ -67,4 +67,5 @@ This project was created as part of the internship program at Prodigy InfoTech.
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 
-Feel free to customize the file further based on specific details or additional instructions relevant to your project or organization.# PRODIGY_CS_02
+Feel free to customize the file further based on specific details or additional instructions relevant to your project or organization.
+# PRODIGY_CS_02
