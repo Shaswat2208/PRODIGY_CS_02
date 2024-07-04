@@ -1,5 +1,3 @@
-
-
 # Pixel Manipulation for Image Encryption
 
 This Python script provides a simple image encryption tool that utilizes pixel manipulation techniques. It allows users to encrypt and decrypt images using a fixed XOR operation and also provides functionality to swap pixels in an image and restore them back.
@@ -65,7 +63,5 @@ This project was created as part of the internship program at Prodigy InfoTech.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-```
 
-Feel free to customize the file further based on specific details or additional instructions relevant to your project or organization.
 # PRODIGY_CS_02
