@@ -1,3 +1,4 @@
+
 # Pixel Manipulation for Image Encryption
 
 This Python script provides a simple image encryption tool that utilizes pixel manipulation techniques. It allows users to encrypt and decrypt images using a fixed XOR operation and also provides functionality to swap pixels in an image and restore them back.
